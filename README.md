@@ -1,5 +1,7 @@
 # NLP-message-user-predictor
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QbdulloK/NLP-message-user-predictor/blob/main/NLP_New_best.ipynb)
+
 Predicting **Telegram message authorship** using a fine-tuned **RuBERT** model with **two-stage training**.
 
 This is an **NLP** project where the model gets **only the text of a message (no context)** and tries to **guess** which of my **three** friends wrote it.
